@@ -1,7 +1,7 @@
 
 # Classification Models
 
-- KNN Classification
+- [KNN Classification](https://github.com/vinay-git2412/Machine-Learning-Models/tree/main/Classification%20Models/KNN%20Classificaton)
 - Logistic Regression
 
 
