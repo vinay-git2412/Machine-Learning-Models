@@ -1,8 +1,8 @@
 
 # Classification Models
 
-- 1. KNN Classification
-- 2. Logistic Regression
+- KNN Classification
+- Logistic Regression
 
 
 ## Acknowledgements
