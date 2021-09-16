@@ -1,7 +1,8 @@
 
-# Project Title
+# Classification Models
 
-A brief description of what this project does and who it's for
+- 1. KNN Classification
+- 2. Logistic Regression
 
 
 ## Acknowledgements
